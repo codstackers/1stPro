@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <title>A Meaningful Page Title</title>
+  <title>A Page Title</title>
   
   <link rel="stylesheet" href="style.css"/>
   
