@@ -11,5 +11,7 @@
 
 The content of the document......
 
+This row was added using VS Code
+
 </body>
 </html>
