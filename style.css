@@ -9,3 +9,14 @@ a {
   color: #000000;
   text-decoration: underline;
   }
+  body {
+    background: #efefef; 
+    font-family: arial;
+  }
+  h2 {
+    font-size: 16px;
+  }
+  a {
+    color: #5e2323;
+    text-decoration: underline;
+    }
