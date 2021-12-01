@@ -16,6 +16,7 @@ h2 {
     height: 100px;
     width: auto;
     background-color: rgb(228, 7, 7);
+    background-image: url();
 }
 
 .box {
@@ -34,4 +35,18 @@ h2 {
     height: 50px;
     width: auto;
     background-color: rgb(52, 14, 187);
+}
+.box2 {
+    background-color: rgb(14, 187, 106);
+}
+
+.para1 {
+
+    background-color: rgb(187, 14, 14);
+}
+
+.para2 {
+
+
+    background-color: rgb(146, 86, 37);
 }
