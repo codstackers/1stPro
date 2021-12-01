@@ -1,22 +1,50 @@
 h1 {
-    color: red;
+    color: rgb(25, 0, 255);
 }
-.div1 {
-   }
 body {
-    color: yellow;
+    color: rgb(0, 255, 106);
 }
 
 h2 {
-    color:  gray;
+    color:  rgb(151, 231, 240);
 }
 .header {
+    color: rgb(255, 234, 71);
     align-content: center;
-    border: 3px solid black;
+    border-radius: 10px;
+    padding-left: 20px;
     height: 100px;
     width: auto;
-    background-color: rgb(228, 7, 7);
-    background-image: url();
+    background-color: red;
+
+}
+
+.logo {
+    margin-top: -80px;
+    margin-left: 2px;
+    border-radius: 65px;
+}
+
+.mainmenu {
+    background-color: red;
+    width: 300px;
+    display: flex;
+    list-style-type: none;
+    margin: none;
+    padding-left: 300px;
+    padding-top: 30px;
+
+}
+.mainmenu li {
+    margin: auto;
+    border: 5px;
+    background: black;
+ 
+}
+
+.mainmenu li a {
+    color: white;
+
 }
 
 .box {
@@ -24,16 +52,17 @@ h2 {
     margin: auto;
     border-left: 10px greenyellow;
     border-right: 10px greenyellow;
-    height: 1500px;
+    height: auto;
     width: 700px;
-    background-color: burlywood;
+    background-color: none;
 }
 
 .footer {
     align-content: center;
     border: 3px solid gray;
     height: 50px;
-    width: auto;
+    width: 700px ;
+    margin: auto;
     background-color: rgb(52, 14, 187);
 }
 .box2 {
@@ -41,12 +70,15 @@ h2 {
 }
 
 .para1 {
-
-    background-color: rgb(187, 14, 14);
+    border-radius: 25px;
+    border: 20px solid red;
+    color: white;
+    background-color: red;
 }
 
 .para2 {
-
-
-    background-color: rgb(146, 86, 37);
+    border: 20px solid plum;
+    border-radius: 10px;
+    color: rgb(12, 7, 7);
+    background-color: plum;
 }
